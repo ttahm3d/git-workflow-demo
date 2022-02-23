@@ -9,4 +9,5 @@ It has two branches
 
 ---
 
+This line was added from branch - `branchTwoFromDev`
 This line was added from branch - `branchFromDev`
