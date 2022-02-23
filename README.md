@@ -6,3 +6,7 @@ It has two branches
 
 - main
 - dev
+
+---
+
+This line was added from branch - `branchFromDev`
